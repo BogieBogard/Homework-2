@@ -76,3 +76,8 @@ body {
         margin: 8px 0px -20px 0px;
         box-sizing: border-box;
       }
+
+  .submit {
+    margin-bottom: 65px;
+
+  }
