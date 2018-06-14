@@ -32,7 +32,6 @@ body {
   -webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.05);
   box-shadow:inset 0 1px 1px rgba(0,0,0,.05)
 /* My additional features to this class below, features already provided above */;
-  box-align: center;
   margin-left: 0px;
   margin-right: 0px;
 }
@@ -42,10 +41,12 @@ body {
     border-color:rgba(0,0,0,.15)}
 
   .well-lg{
-    padding-left: 400px;
-    padding-right: 300px;
+    padding-left: 150px;
+    padding-right: 100px;
     box-align: center;
-    border-radius:6px}
+    border-radius:6px;
+    margin-bottom: 0px}
+
       
   .well-sm{
     padding:9px;
